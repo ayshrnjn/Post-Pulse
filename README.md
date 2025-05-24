@@ -2,7 +2,7 @@
 
 PostPulse is a React-based frontend web application that displays blog-style posts using the DummyJSON API. The UI features a modern card layout, responsive design, and a custom-themed navbar.
 
-
+ Group-2
 
  ->Features
 
