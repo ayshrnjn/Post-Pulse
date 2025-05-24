@@ -1,0 +1,29 @@
+.navbar{
+   display: flex;
+  
+   color:white;
+   text-align: center;
+   justify-content: space-between;
+   padding: 15px 30px;
+   background-color: rgba(198, 27, 198, 0.855);
+  
+   font-weight: bold;
+}
+
+.nav-link{
+  display:flex;
+  gap:10px;
+  color:white;
+  
+}
+
+.nav-link div {
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.nav-link div:hover {
+  color: black;
+}
+
+
