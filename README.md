@@ -20,6 +20,17 @@ PostPulse is a simple, modern web app for browsing and reading posts and stories
 3. **About Page**: Learn more about the project and its features.
 4. **Pagination**: Navigate between pages of posts using Previous/Next buttons at the bottom.
 
+## Screenshots
+
+### Home Page
+![Home Page](./Screenshot1.png)
+
+### About Page
+![About Page](./Screenshot2.png)
+
+### Card Grid Example
+![Card Grid Example](./screenshot.png)
+
 ## Tech Stack
 - React
 - Vite
